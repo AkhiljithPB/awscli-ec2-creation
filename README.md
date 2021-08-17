@@ -21,7 +21,7 @@ C:\Users\user1>aws configure
 AWS Access Key ID [****************ZCUR]: **************
 AWS Secret Access Key [****************2TiW]: ******************
 Default region name [ap-south-1]: ap-south-1  <<<<<<Region
-Default output format [json]: jason
+Default output format [json]: json
 ```
 ## Step 2: Creating a new security group
 
