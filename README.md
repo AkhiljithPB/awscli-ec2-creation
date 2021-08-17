@@ -27,7 +27,7 @@ Default output format [json]: json
 
 The below "create-security-group" command will create a new security group with name "cli-sg". "create-tags" helps to add tag to the new security group.
 ```sh
->aws ec2 create-tags --resources sg-0c6df17de485cfc80 --tags Key=Name,Value=cli-sg
+>aws ec2 create-security-group --group-name cli-sg --description "Allow 22,80,443"
 {
     "GroupId": "sg-0c6df17de485cfc80"
 }
