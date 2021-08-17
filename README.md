@@ -1,7 +1,7 @@
 # Launching an EC2 instance with apache webserver and additional volume for document root using AWS CLI.
 
 ## Description
-###### Here, we will look into the process of launching instances and install apache webserver. Also, create, attach additional volume for ducument root that is through AWS-Command Line Interface.
+###### Here, we will look into the process of launching an EC2 instance and install apache webserver. Also, create, attach additional volume for ducument root that is through AWS-Command Line Interface.
 
 ## Features
 
