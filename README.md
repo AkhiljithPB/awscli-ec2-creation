@@ -44,7 +44,7 @@ Finally you can use the "describe-security-groups" command to cross-check the se
 aws  ec2  describe-security-groups --group-name cli-sg
 ```
 ## Step 2: Adding a fresh keypair for my new instance.
-here, the "create-key-pair" command used to create a new key pair and the private key will be saved to Clikeypair.pem.
+here, the "create-key-pair" command used to create a new key pair and the private key will be saved to aws-cli.pem.
 ```sh
 >aws ec2 create-key-pair --key-name aws-cli --query "KeyMaterial" --output text > aws-cli.pem
 ```
