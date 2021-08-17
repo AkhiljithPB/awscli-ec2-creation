@@ -110,3 +110,4 @@ drwxr-xr-x 2 apache apache    4096 Mar  5  2018 js
 [root@ip-172-31-7-88 html]#
 ```
 ### website is loading.
+![alt text](https://github.com/AkhiljithPB/awscli-ec2-creation/blob/3b706dc9a70c90fa68757e02d3d3e8ac8e1c7742/website.png?raw=true)
